@@ -1,5 +1,33 @@
-# 💫 About Me:
+# Hi, I'm Rishabh Rai 👋
 
+💻 Java Developer | DSA Enthusiast | AIML Learner  
+🌐 Web Development Explorer | Business Analytics Enthusiast  
+
+## 🚀 About Me
+- Passionate about solving problems using Java and Data Structures & Algorithms
+- Currently learning and building projects in AI/ML and Web Development
+- Interested in Business Analytics and real-world data-driven solutions
+- Consistently improving coding skills through practice and projects
+- Open to collaboration and internship opportunities
+
+## 🛠️ Skills
+- Java
+- Data Structures & Algorithms
+- Web Development
+- AIML
+- Business Analytics
+- Git & GitHub
+
+## 📈 Currently Learning
+- Full Stack Web Development
+- Machine Learning Concepts
+- Advanced DSA Problems
+
+## 🎯 Goal
+To build impactful projects, improve problem-solving skills, and grow as a software developer.
+
+---
+⭐ Always learning, building, and improving.
 
 
 ## 🌐 Socials:
